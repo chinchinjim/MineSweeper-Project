@@ -1,4 +1,5 @@
 # MineSweeper-Project
+
 A MineSweeper game that I created for ICS3U in Grade 11
 
 This program runs an interactive Minesweeper game.
