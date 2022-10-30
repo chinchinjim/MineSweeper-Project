@@ -7,8 +7,8 @@ Author: Chin Chin
 Prompt: Final Project for ICS3U - Minesweeper
 Date Created: May 31, 2020
 Last Modified: June 15, 2020
-Assumptions:
- ---
+Assumptions: N/A
+ 
 
 This was a game I created a while ago for my final project in the Grade 11 Introduction to Computer Science Course I took in highschool.
 Although there are a few formatting errors, this code functions as an interactive game of Minesweeper which you can play from the console,
