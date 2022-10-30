@@ -2,11 +2,16 @@
 
 A MineSweeper game that I created for ICS3U in Grade 11
 
-This program runs an interactive Minesweeper game.
+This program runs an interactive Minesweeper game. 
+
 Author: Chin Chin
+
 Prompt: Final Project for ICS3U - Minesweeper
+
 Date Created: May 31, 2020
+
 Last Modified: June 15, 2020
+
 Assumptions: N/A
  
 
